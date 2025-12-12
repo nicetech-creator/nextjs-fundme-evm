@@ -10,7 +10,7 @@
   "dependencies": {
     "@tanstack/react-query": "^5.48.0",
     "@wagmi/connectors": "^5.0.0",
-    "connectkit": "^2.0.0",
+    "connectkit": "^1.0.0",
     "framer-motion": "^12.23.26",
     "next": "^14.2.0",
     "react": "^18.2.0",
