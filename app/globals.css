@@ -5,4 +5,20 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
+  background: linear-gradient(135deg, #0d1b2a 0%, #1b263b 50%, #415a77 100%);
+  background-attachment: fixed;
+  color: #e6edf3;
+}
+
+.card {
+  background-color: rgba(13, 27, 42, 0.75);
+  border-color: rgba(230, 237, 243, 0.15);
+}
+
+.navbar {
+  backdrop-filter: saturate(120%) blur(6px);
+}
+
+.modal-content {
+  background-color: rgba(13, 27, 42, 0.95);
 }
